@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+#caixes {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+}
+
+#caixes *{
+    float: left;
+    text-align: center;
+}
+
+.titol {
+    background: blueviolet;
+    margin: 10px;
+    margin-left: 15px;
+    margin-top: 20px;
+    padding: 10px;
+    width: 94.5%;
+    height: 60px;
+}
+
+.linia {
+    width: 100%;
+    margin-left: 10px;
+}
+
+.linia *{
+    margin: 5px;
+    padding: 10px;
+    width: 30%;
+    height: 100px;
+}
+
+    .one {
+        background: red;
+        display: inline;
+    }
+    .two {
+        background: green;
+        display: inline;
+    }
+    .three {
+        background: blue;
+        display: inline;
+    }
+    .four {
+        background: yellow;
+        display: inline;
+    }
+    .five {
+        background: orange;
+        display: inline;
+    }
+    .six {
+        background: brown;
+        display: inline;
+    }
